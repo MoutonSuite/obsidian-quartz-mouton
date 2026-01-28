@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>MoutonQuartz</title>
+      <link>https://moutondemocrate.com</link>
+      <description>Last 10 notes on MoutonQuartz</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>MoutonQuartz</title>
+    <link>https://moutondemocrate.com/</link>
+    <guid>https://moutondemocrate.com/</guid>
+    <description>This is a simple static website built with Quartz. It serves as a base to build a website from an Obsidian vault. You can find the source code on Github : MoutonQuartz If you like it, check out the original : Quartz.</description>
+    <pubDate>Wed, 28 Jan 2026 00:42:10 GMT</pubDate>
+  </item><item>
+    <title>Some note</title>
+    <link>https://moutondemocrate.com/Test-Category/Some-note</link>
+    <guid>https://moutondemocrate.com/Test-Category/Some-note</guid>
+    <description>Just another note, but it links to index.</description>
+    <pubDate>Wed, 28 Jan 2026 00:42:10 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

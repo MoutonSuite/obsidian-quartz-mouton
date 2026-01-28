@@ -1,0 +1,1 @@
+Just another note, but it links to [[index]].
