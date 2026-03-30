@@ -1,5 +1,5 @@
 ---
-title: MoutonQuartz
+title: Welcome!
 ---
 
 This is a simple static website built with Quartz.
